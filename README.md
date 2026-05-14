@@ -1,36 +1,90 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+# Atelier Verde — Landing Page de Alfaiataria Sustentável
 
-First, run the development server:
+## Sobre o Projeto
+
+Este projeto foi desenvolvido durante uma aula prática com o objetivo de explorar conceitos modernos de desenvolvimento Front-end, UI/UX e arquitetura de aplicações utilizando tecnologias atuais do ecossistema React.
+
+A proposta consiste em uma Landing Page premium para uma alfaiataria de luxo sustentável, focada em clientes que valorizam:
+
+- elegância silenciosa
+- conforto
+- exclusividade
+- sustentabilidade
+- peças duráveis e atemporais
+
+O design e a estrutura visual foram idealizados utilizando um prompt gerado via Inteligência Artificial, servindo como base criativa para a construção da interface.
+
+---
+
+## Objetivo do Projeto
+
+Criar uma experiência visual sofisticada e moderna que represente os valores da marca:
+
+> “Criar um guarda-roupa que funciona de verdade, unindo o rigor clássico com a praticidade contemporânea.”
+
+O projeto busca transmitir:
+
+- luxo minimalista
+- sustentabilidade premium
+- exclusividade sem ostentação
+- experiência digital refinada
+
+---
+
+## Tecnologias Utilizadas
+
+- React
+- TypeScript
+- Tailwind CSS
+- Next.js
+
+---
+
+## Conceitos Aplicados
+
+- Responsividade avançada
+- Arquitetura limpa
+- Componentização
+- Design System
+- UI Premium
+- Experiência do usuário moderna
+- Landing Page de alta conversão
+
+---
+
+## Observações
+
+Este projeto possui finalidade educacional e demonstrativa.
+
+As imagens utilizadas são meramente ilustrativas e foram utilizadas para composição visual do layout.
+
+O conceito visual da aplicação foi inspirado em direções criativas geradas com apoio de Inteligência Artificial.
+
+---
+
+## Como executar o projeto
+
+Instale as dependências:
+
+```bash
+npm install
+```
+
+Execute o projeto:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Abra:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## Autor
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Projeto desenvolvido em aula por Nathan Siqueira para fins de estudo e prática de desenvolvimento Front-end moderno.
